@@ -1,0 +1,8 @@
+{
+    "account":"vivek",
+    "user":"vivek248",
+    "password":"Messi107248",
+    "database":"spacexdb",
+    "warehouse":"snowflake",
+    "schema":"public"
+}
