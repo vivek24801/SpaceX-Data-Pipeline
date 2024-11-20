@@ -1,8 +1,7 @@
 {
-    "account":"vivek",
-    "user":"vivek248",
-    "password":"Messi107248",
-    "database":"spacexdb",
-    "warehouse":"snowflake",
-    "schema":"public"
+    "account":"HMZJUGG.EK61989",
+    "user":"Vivek Sai Prodduturi",
+    "database":"DE_DB",
+    "warehouse":"DE_WH",
+    "schema":"PUBLIC"
 }
